@@ -3,16 +3,16 @@ body{
     text-align: center;
 }
 
-.rem{
+html{
     font-size: 20px;
 }
 
 h1{
     font-family: "Josefin Sans",sans-serif;
-    font-size: 2em;
+    font-size: 2rem;
     border-bottom: solid 3px rgb(115, 115, 114);
     text-shadow: 1px 2px 5px rgb(204, 163, 173);
-    letter-spacing: 1.2em;
+    letter-spacing: 1.2rem;
 }
 
 .text-color1{
